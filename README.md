@@ -13,4 +13,4 @@ Docker hub: (https://hub.docker.com/r/heroahmadi/redis-cluster)
 
 ## Others
 
-This image is tested running on windows host, docker desktop with docker engine v19.03.8
+Built with windows host | docker desktop | docker engine v19.03.8
